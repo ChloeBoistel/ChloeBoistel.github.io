@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-04-18T18:48:42+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">AET</title><subtitle>Una tarea de AET.</subtitle><author><name>Chloe</name></author><entry><title type="html">Reflexión</title><link href="http://localhost:4000/proyecto/proyecto1" rel="alternate" type="text/html" title="Reflexión" /><published>2022-04-16T00:00:00+00:00</published><updated>2022-04-16T00:00:00+00:00</updated><id>http://localhost:4000/proyecto/proyecto1</id><content type="html" xml:base="http://localhost:4000/proyecto/proyecto1"><![CDATA[<h1 id="desigualdad-de-oportunidades-en-la-educación">Desigualdad de oportunidades en la educación</h1>
+
+<p>Frente a perseguir la igualdad de oportunidades, que solo se daría probablemente en el caso de que no existiera desigualdad de recursos en las familias o que, directamente, no existieran las familias; el objetivo debe ser lograr la equidad en una sociedad y en un sistema educativo desiguales para que cada persona pueda llegar a los resultados que se proponga sin que pesen en el proceso sus circunstancias sociales y características individuales. Por otro lado, para concluir, la inserción económica no puede ser la fuente de derechos de las personas: los derechos fundamentales no pueden ser resultado de hechos fortuitos como el lugar donde se nace o las características que se tengan. No obstante, la realidad a la que nos enfrentamos en la actualidad es que el capital económico da la posibilidad a quienes lo poseen de convertirlo en un capital cultural que al final facilitará el acceso a la posición social deseada convirtiéndose así finalmente en capital social. Por ello, es de vital importancia propiciar una revisión del enfoque que han adoptado las diferentes reformas educativas y promover el necesario cambio (esta vez un cambio para quedarse) adoptando metodologías basadas en el constructivismo y el trabajo cooperativo. De esta manera, se lograría entender la clase como una estructura social, fuente de relaciones sociales diversas, que sería solo un paso en la búsqueda de la equidad en la educación. Sin embargo, en aras de una sociedad más equitativa se necesita un cambio social a través de reformas sociales, políticas y económicas, no educativas.</p>]]></content><author><name>Chloe</name></author><category term="proyecto" /><summary type="html"><![CDATA[Desigualdad de oportunidades en la educación]]></summary></entry><entry><title type="html">Familias</title><link href="http://localhost:4000/proyecto/proyecto2" rel="alternate" type="text/html" title="Familias" /><published>2022-04-16T00:00:00+00:00</published><updated>2022-04-16T00:00:00+00:00</updated><id>http://localhost:4000/proyecto/proyecto2</id><content type="html" xml:base="http://localhost:4000/proyecto/proyecto2"><![CDATA[<h1 id="el-tipo-de-familia-no-condiciona-la-educación-y-desarrollo-del-infante">El tipo de familia no condiciona la educación y desarrollo del infante</h1>
+
+<p>Durante las últimas décadas, el concepto de familia ha tenido que ir cambiando y evolucionando a la vez que lo hacía la sociedad, adecuándose el vocabulario a las nuevas realidades que aparecen. Se ha pasado de considerar un matrimonio moderno a aquél que decidían los propios integrantes del matrimonio y no sus familias, a una situación de diversidad en la forma de organizarnos afectivamente y de repartir la responsabilidad del cuidado de los hijos.
+Cada vez son más comunes las uniones no matrimoniales, las separaciones, tener hijos sin compartir vínculo genético con ellos o parejas donde los roles de género se desdibujen y ambos tengan que trabajar y depender del apoyo familiar para cuidar a sus hijos.
+Y seguramente, en un futuro bastante próximo, sean más comunes otras realidades como tener progenitores trans, ya sean personas binarias o no, o compartir la labor de crianza entre más de dos personas convivientes que tengan lazos poliamorosos entre sí. Mientras la sociedad sepa adaptarse a esta diversidad y se vayan sofocando los discursos defensores de la familia tradicional como único modelo familiar válido, la pluralidad de todas las familias tendrán las mismas probabilidades de criar un ciudadano con sus características de autoestima, disciplina, éxito académico y cualidades comunicativas idóneas para su pleno desarrollo.
+En resumen, una familia está compuesta por personas con un proyecto vital común que comprende la educación de una hijos en la que los padres tienen que implicarse personal y emocionalmente, así como llenar de contenido todo el proceso de crianza y educación. El fin último es hacer prosperar al hijo como ser humano en todas las facetas de vida, psicológica, profesional y socialmente y que sea capaz de desenvolverse por sí mismo en la edad adulta.</p>]]></content><author><name>Chloe</name></author><category term="proyecto" /><summary type="html"><![CDATA[El tipo de familia no condiciona la educación y desarrollo del infante]]></summary></entry><entry><title type="html">Hola</title><link href="http://localhost:4000/personal/personal1" rel="alternate" type="text/html" title="Hola" /><published>2021-11-17T00:00:00+00:00</published><updated>2021-11-17T00:00:00+00:00</updated><id>http://localhost:4000/personal/personal1</id><content type="html" xml:base="http://localhost:4000/personal/personal1"><![CDATA[<h1 id="hola-a-todos">¡Hola a todos!</h1>
+
+<p>Que tengan un <del>buen</del> <em>maravilloso</em> día</p>]]></content><author><name>Chloe</name></author><category term="personal" /><summary type="html"><![CDATA[¡Hola a todos!]]></summary></entry><entry><title type="html">Aprendiendo a poner fórmulas de LaTeX</title><link href="http://localhost:4000/docencia/latex" rel="alternate" type="text/html" title="Aprendiendo a poner fórmulas de LaTeX" /><published>2021-11-16T00:00:00+00:00</published><updated>2021-11-16T00:00:00+00:00</updated><id>http://localhost:4000/docencia/latex</id><content type="html" xml:base="http://localhost:4000/docencia/latex"><![CDATA[\[a \times x^2 = y_j\]
+
+\[f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi\]
+
+<h2 id="esto-de-aquí-son-datos-csv-en-formato-jason">Esto de aquí son datos csv en formato Jason:</h2>
+<p>{“First name”=&gt;”John”, “Last name”=&gt;”Doe”, “Age”=&gt;”35”, “Location”=&gt;”United States”}{“First name”=&gt;”Jane”, “Last name”=&gt;”Doe”, “Age”=&gt;”29”, “Location”=&gt;”France”}{“First name”=&gt;”Jack”, “Last name”=&gt;”Hill”, “Age”=&gt;”25”, “Location”=&gt;”Australia”}</p>
+
+<h2 id="y-ahora-ponemos-la-tabla">Y ahora ponemos la tabla:</h2>
+<table>
+  
+    
+    <tr>
+      
+        <th>First name</th>
+      
+        <th>Last name</th>
+      
+        <th>Age</th>
+      
+        <th>Location</th>
+      
+    </tr>
+    
+     <tr class="row1">
+<td class="col1">
+      John
+    </td><td class="col2">
+      Doe
+    </td><td class="col3">
+      35
+    </td><td class="col4">
+      United States
+    </td></tr>
+
+
+
+  
+    
+     <tr class="row1">
+<td class="col1">
+      Jane
+    </td><td class="col2">
+      Doe
+    </td><td class="col3">
+      29
+    </td><td class="col4">
+      France
+    </td></tr>
+
+
+
+  
+    
+     <tr class="row1">
+<td class="col1">
+      Jack
+    </td><td class="col2">
+      Hill
+    </td><td class="col3">
+      25
+    </td><td class="col4">
+      Australia
+    </td></tr>
+
+
+
+  
+</table>]]></content><author><name>Chloe</name></author><category term="docencia" /><summary type="html"><![CDATA[\[a \times x^2 = y_j\]]]></summary></entry><entry><title type="html">Un buen día para vivir</title><link href="http://localhost:4000/personal/personal2" rel="alternate" type="text/html" title="Un buen día para vivir" /><published>2021-11-12T00:00:00+00:00</published><updated>2021-11-12T00:00:00+00:00</updated><id>http://localhost:4000/personal/personal2</id><content type="html" xml:base="http://localhost:4000/personal/personal2"><![CDATA[<h1 id="buenos-días">Buenos días</h1>
+
+<p>Dar un paseo relajante</p>]]></content><author><name>Chloe</name></author><category term="personal" /><summary type="html"><![CDATA[Buenos días]]></summary></entry><entry><title type="html">Mi segundo post</title><link href="http://localhost:4000/blog/aet" rel="alternate" type="text/html" title="Mi segundo post" /><published>2021-11-09T00:00:00+00:00</published><updated>2021-11-09T00:00:00+00:00</updated><id>http://localhost:4000/blog/aet</id><content type="html" xml:base="http://localhost:4000/blog/aet"><![CDATA[<h1 id="un-día-tranquilo">Un día tranquilo</h1>
+
+<ol>
+  <li>
+    <p>Me gusta mucho comer naranjas</p>
+  </li>
+  <li>
+    <p>Me gusta mucho comer peras</p>
+  </li>
+  <li>
+    <p>Me gusta mucho comer limones</p>
+  </li>
+  <li>
+    <p>Me gusta mucho comer fresas</p>
+  </li>
+</ol>
+
+<p><img src="https://www.bbva.com/wp-content/uploads/2016/05/unicornio-BBVA-e1462529987593.jpg" alt="" /></p>]]></content><author><name>Chloe</name></author><category term="blog" /><summary type="html"><![CDATA[Un día tranquilo]]></summary></entry><entry><title type="html">Clase</title><link href="http://localhost:4000/blog/clase" rel="alternate" type="text/html" title="Clase" /><published>2021-11-08T00:00:00+00:00</published><updated>2021-11-08T00:00:00+00:00</updated><id>http://localhost:4000/blog/clase</id><content type="html" xml:base="http://localhost:4000/blog/clase"><![CDATA[<p>Somos 20 alumnos</p>
+
+<p>La respuesta a cuánto vale chuchu es 4</p>
+
+<p>Hola criaturitas del señor</p>
+
+<p>Ay Dios mío, cuánto de semana queda…</p>
+
+<p>I am a <strong>fabulous</strong> person.</p>]]></content><author><name>Chloe</name></author><category term="blog" /><summary type="html"><![CDATA[Somos 20 alumnos]]></summary></entry><entry><title type="html">Mi primer post: Aprendiendo a usar un Generador Estático</title><link href="http://localhost:4000/docencia/aet" rel="alternate" type="text/html" title="Mi primer post: Aprendiendo a usar un Generador Estático" /><published>2021-11-04T00:00:00+00:00</published><updated>2021-11-04T00:00:00+00:00</updated><id>http://localhost:4000/docencia/aet</id><content type="html" xml:base="http://localhost:4000/docencia/aet"><![CDATA[<h1 id="por-fin-es-jueves">Por fin es Jueves</h1>
+
+<p>Ya queda menos para el fin de semana</p>]]></content><author><name>Chloe</name></author><category term="docencia" /><summary type="html"><![CDATA[Por fin es Jueves]]></summary></entry></feed>
